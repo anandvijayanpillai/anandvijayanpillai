@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm from Kerala<br><br>- 🔭 I’m currently working as Software Developer @ DCS INFOWAY<br>- 🌱 I’m currently working on Angular, C#, .NET and Azure <br>- 💬 Ask me about TECH</p>
+<p align="left">I'm from Kerala<br>I am currently pusuing masters in AI and Data Science<br>   <br>- 🌱 I’m currently working on Angular, C#, .NET and Azure <br>- 💬 Ask me about TECH</p>
 
 ###
 
